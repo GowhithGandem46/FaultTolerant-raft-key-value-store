@@ -6,9 +6,9 @@ import (
 	"log"
 	"net/http"
 
-	db "github.com/4molybdenum2/distrKV/db"
-	"github.com/4molybdenum2/distrKV/pkg/config"
-	"github.com/4molybdenum2/distrKV/pkg/web"
+	db "github.com/4molybdenum2/FaultTolerant-raft-key-value-store/db"
+	"github.com/GowhithGandem46/FaultTolerant-raft-key-value-store/pkg/config"
+	"github.com/GowhithGandem46/FaultTolerant-raft-key-value-store/pkg/web"
 	"github.com/BurntSushi/toml"
 	"github.com/gorilla/mux"
 )
