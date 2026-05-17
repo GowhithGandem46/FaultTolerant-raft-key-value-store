@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-trap 'killall distrKV' SIGINT
+trap 'killall FaultTolerant-raft-key-value-store' SIGINT
 
 cd $(dirname $0)
 
