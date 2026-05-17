@@ -6,7 +6,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/4molybdenum2/distrKV/db"
+	"github.com/GowhithGandem46/FaultTolerant-raft-key-value-store/db"
 )
 
 type Server struct {
