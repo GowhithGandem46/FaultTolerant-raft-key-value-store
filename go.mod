@@ -1,4 +1,5 @@
-module github.com/4molybdenum2/distrKV
+module github.com/GowhithGandem46/FaultTolerant-raft-key-value-store
+
 
 go 1.17
 
