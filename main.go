@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	db "github.com/4molybdenum2/FaultTolerant-raft-key-value-store/db"
+	db "github.com/GowhithGandem46/FaultTolerant-raft-key-value-store/db"
 	"github.com/GowhithGandem46/FaultTolerant-raft-key-value-store/pkg/config"
 	"github.com/GowhithGandem46/FaultTolerant-raft-key-value-store/pkg/web"
 	"github.com/BurntSushi/toml"
